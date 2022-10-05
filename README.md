@@ -29,5 +29,14 @@ This is the tentative code for my master thesis
 * estimation_rg_Conv1D_virtual.py : for working on virtual datasets (predict PCA features of SPD)
 * estimation_rg_Conv1D_naive.py : for testing model on gaussian virtual datasets (predict the channel weights instead of PCA features of SPD)
  
+ ## Illustration Figure
+ 
+ ### Virtual Camera Simulation
+ 
+ 
+ ![](images/virtual camera.png)
+ 
+ 
+ 
  
  ## Master thesis link: [clik](https://drive.google.com/file/d/1RuFVj-hMuMlr-eeeA-Pli45FrMztTi8U/view)  
