@@ -38,5 +38,6 @@ This is the tentative code for my master thesis
 https://user-images.githubusercontent.com/80296065/194082431-8cbee45a-3bb8-4ce7-95b8-b80419c2c41f.mp4
 
 ### SPD Estimation Workflow
+![](images/SPD%20estimation%20scheme.png)
 
-## Master thesis link: [clik](https://drive.google.com/file/d/1RuFVj-hMuMlr-eeeA-Pli45FrMztTi8U/view)  
+## Thesis link: [check the thesis for detailed information](https://drive.google.com/file/d/1RuFVj-hMuMlr-eeeA-Pli45FrMztTi8U/view)  
