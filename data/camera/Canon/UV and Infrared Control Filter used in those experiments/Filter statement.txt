@@ -1,0 +1,2 @@
+bw486:UV and Infrared Control Filter
+Makario filter: IR filter
