@@ -1,5 +1,5 @@
 # Deep-Learning-Based-Illumination-SPD-Estimation-from-an-RGB-Camera
-This is the tentative code for my master thesis 
+This is the tentative code for my master thesis. 
 
 
 ## Overall 
@@ -15,17 +15,21 @@ Rendering vivid virtual object in VR scene and simulation of some low-vision eff
 Therefore, my work focus on predict illumination SPD from images.
 
 
-## Dataset generation 
+## Dataset Generation 
 There is no existing dataset avalibale for our purpose. In order to acquire the data, we set up the real capturing and also implemented a physically-based image synthesis model.
 
-### Virtual Camera Simulation (for image synthesis)
+### virtual camera simulation (for image synthesis)
 ![](images/virtual%20camera.png)
  
-### Synthesized Image Generation (different illumination SPDs applied)
+### synthesized image generation (different illumination SPDs applied)
 https://user-images.githubusercontent.com/80296065/194082431-8cbee45a-3bb8-4ce7-95b8-b80419c2c41f.mp4
 
+### real captured images (from our capturing setting)
+![](images/captured%20images.png)
+Our proposed dataset available online: [check the dataset](https://www.couleur.org/articles/SITIS2022-WAI/)
+
 ## Illumination SPD estimation
-### SPD Estimation Workflow
+### SPD estimation workflow
 ![](images/SPD%20estimation%20scheme.png)
 
 ## File description 
@@ -58,4 +62,4 @@ https://user-images.githubusercontent.com/80296065/194082431-8cbee45a-3bb8-4ce7-
  
 
 ## Thesis link: [check the thesis for detailed information](https://drive.google.com/file/d/1RuFVj-hMuMlr-eeeA-Pli45FrMztTi8U/view)  
-## Our proposed Dataset link: [check the dataset](https://www.couleur.org/articles/SITIS2022-WAI/)
+
